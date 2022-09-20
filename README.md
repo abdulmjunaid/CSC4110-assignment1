@@ -1,3 +1,3 @@
-# Github and git conflict
+# Github and git
 ## Abdul-Muqeet Junaid
 ### hd9168
